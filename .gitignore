@@ -1,0 +1,6 @@
+*.env
+*.envrc
+.idea/
+.gradle/
+out/
+build/
